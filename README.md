@@ -26,7 +26,7 @@ _Note_: Tested on Linux Mint 22.
 
 ```bash
 $ git clone the repository.
-$ cd DOOM_fixed/linuxdoom-1.10 
+$ cd into/linuxdoom-1.10 
 $ make # 64 bit build
 $ make x86 # 32-bit build
 $ cd linux/ 

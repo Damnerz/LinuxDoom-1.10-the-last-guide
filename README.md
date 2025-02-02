@@ -23,7 +23,6 @@ _Note_: Tested on Linux Mint 22.
 - libnsl-dev (`sudo apt-get install libnsl-dev:i386`)
 
 ## Build and Run
-==========================================================
 
 ```bash
 $ git clone the repository.
